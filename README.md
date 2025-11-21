@@ -1,6 +1,6 @@
-# Abdelkabir RE - Full Stack Developer
+# Abdelkabir Rrabie - Full Stack Developer
 
-👋 Hi, I'm **Abdelkabir RE** - a passionate web developer currently expanding my skills in software development!
+👋 Hi, I'm **Abdelkabir Rabie** - a passionate web developer currently expanding my skills in software development!
 
 ## 👀 Interests
 - 💻 **Web Development** - Full stack development with modern technologies

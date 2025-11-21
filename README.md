@@ -18,9 +18,6 @@
 - **LinkedIn**: [www.linkedin.com/in/abdelkabir-rabie-8656a3314]
 - **GitHub**: https://github.com/abdelkabir-re
 
-## 😄 Pronouns
-He/Him
-
 ## ⚡ Fun Facts
 - 🚀 I love turning complex problems into simple, elegant solutions
 - 🎵 When I'm not coding, you might find me exploring new music genres
@@ -40,19 +37,6 @@ He/Him
 ### Tools & Technologies
 - **Git** • **GitHub** • **Redux** • **React Router**
 - **Lucide Icons** • **React Toastify** • **Framer Motion**
-
-## 📈 Current Projects
-
-### ShopEase - E-commerce Platform
-A modern, responsive e-commerce application featuring:
-- 🔐 **Authentication System** (Login, Signup, Forgot Password)
-- 🎨 **Beautiful UI/UX** with dark mode support
-- 📱 **Responsive Design** that works on all devices
-- ⚡ **Smooth Animations** with Framer Motion
-- 🛒 **Shopping Cart & Product Management**
-- 🔒 **Secure Form Validation** with Zod
-
----
 
 ⭐ **Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something amazing!**
 

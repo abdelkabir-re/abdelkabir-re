@@ -1,12 +1,59 @@
-- 👋 Hi, I’m @abdelkabir-re
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Abdelkabir RE - Full Stack Developer
 
-<!---
-abdelkabir-re/abdelkabir-re is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm **Abdelkabir RE** - a passionate web developer currently expanding my skills in software development!
+
+## 👀 Interests
+- 💻 **Web Development** - Full stack development with modern technologies
+- 🎨 **UI/UX Design** - Creating beautiful and functional user interfaces
+- 🔧 **Software Engineering** - Building scalable and maintainable applications
+- 🌐 **Modern Web Technologies** - React, Node.js, and beyond
+
+## 🌱 Currently Learning
+- **Java** - Deepening my knowledge in object-oriented programming
+- **Spring Framework** - Enterprise application development
+- **System Design** - Architecture and scalability patterns
+
+## 📫 How to Reach Me
+- **Email**: [abdelkabirrabya@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/abdelkabir-rabie-8656a3314]
+- **GitHub**: https://github.com/abdelkabir-re
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Facts
+- 🚀 I love turning complex problems into simple, elegant solutions
+- 🎵 When I'm not coding, you might find me exploring new music genres
+- ☕ Coffee enthusiast and believer in the power of good documentation
+- 🌙 Night owl who does some of the best work when the world is sleeping
+
+## 🛠️ Technical Skills
+
+### Frontend
+- **React** • **JavaScript** • **TypeScript** • **HTML5** • **CSS3** • **Tailwind CSS**
+- **Framer Motion** • **React Hook Form** • **Zod Validation**
+
+### Backend
+- **Node.js** • **Express** • **Java** (learning)
+- **REST APIs** • **Authentication** • **Database Design**
+
+### Tools & Technologies
+- **Git** • **GitHub** • **Redux** • **React Router**
+- **Lucide Icons** • **React Toastify** • **Framer Motion**
+
+## 📈 Current Projects
+
+### ShopEase - E-commerce Platform
+A modern, responsive e-commerce application featuring:
+- 🔐 **Authentication System** (Login, Signup, Forgot Password)
+- 🎨 **Beautiful UI/UX** with dark mode support
+- 📱 **Responsive Design** that works on all devices
+- ⚡ **Smooth Animations** with Framer Motion
+- 🛒 **Shopping Cart & Product Management**
+- 🔒 **Secure Form Validation** with Zod
+
+---
+
+⭐ **Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something amazing!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdelkabir-re&color=emerald)
